@@ -16,9 +16,7 @@
   - Catalog Number: none
   - Format: File
   - Genre / Style: none
-- Generates one CSV per folder, even if multiple albums exist
 - CSV is automatically named: Artist - Album (Year).csv and saved to your Desktop
-- Tracks are formatted without spaces before track duration (Title3:34) and with em dashes for extra artists
 
 ## Installation
 
