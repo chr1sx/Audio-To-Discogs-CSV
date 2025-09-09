@@ -31,4 +31,4 @@
 1. Download the script: https://github.com/chr1sx/Audio-To-Discogs-CSV-Exporter/archive/refs/heads/main.zip
 2. Drag and drop one or more music folders onto the script file
 3. CSV files will appear on your Desktop, ready to use
-4. Submit your CSV file on Discogs: https://www.discogs.com/release/csv_to_draft
+4. Upload your CSV files on Discogs: https://www.discogs.com/release/csv_to_draft
