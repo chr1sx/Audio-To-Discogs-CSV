@@ -31,3 +31,4 @@
 1. Download the script
 2. Drag and drop one or more music folders onto the script file
 3. CSV files will appear on your Desktop, ready to use
+4. Submit your CSV file on Discogs: https://www.discogs.com/release/csv_to_draft
