@@ -8,7 +8,7 @@
 ## Features
 
 - Supports common audio formats: MP3, FLAC, OGG, WAV, AIFF, AAC, M4A, MP4, WV, APE, MPC
-- Reads metadata tags using Mutagen: Artist, Album, Album Artist, Track Title, Genre, Style, Label, Catalog Number, Year
+- Reads metadata tags: Artist, Album, Album Artist, Track Title, Genre, Style, Label, Catalog Number, Year
 - Handles multi-artist tracks: extra artists are clearly shown with an em dash (—) before the track title
 - Supports multiple folders dragged onto the script
 - Defaults for missing metadata:
