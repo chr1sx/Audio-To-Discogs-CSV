@@ -1,4 +1,4 @@
-# Multi-Format Audio Tag CSV Exporter
+# Multi-Format Audio TO Discogs CSV Exporter
 
 Supports common audio formats. Reads metadata tags using Mutagen. Handles multi-artist tracks. Supports multiple folders dragged onto the script.
 
